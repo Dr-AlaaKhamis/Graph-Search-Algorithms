@@ -6,8 +6,8 @@
 
 ## Algorithms Notebook
 
-- [-] Depth First Search
-- [-] Breadth First Search
+- [x] Depth First Search
+- [x] Breadth First Search
 - [ ] Dijkstra
 - [ ] A*
 - [ ] Branch price and cut
