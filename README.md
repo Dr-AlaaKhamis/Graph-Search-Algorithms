@@ -8,7 +8,7 @@
 
 - [x] Depth First Search
 - [x] Breadth First Search
-- [ ] Dijkstra
+- [x] Dijkstra
 - [ ] A*
 - [ ] Branch price and cut
 - [ ] Contraction Hierarchy
