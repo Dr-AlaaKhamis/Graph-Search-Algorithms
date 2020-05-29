@@ -23,6 +23,7 @@
 <img src="./dijkstra.gif" width="750" height="550">
 </p>
 </br>
+
 - [ ] A*
 - [ ] Branch price and cut
 - [ ] Contraction Hierarchy
