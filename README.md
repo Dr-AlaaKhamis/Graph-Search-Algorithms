@@ -6,7 +6,8 @@
 
 ## Algorithms Notebook
 
-- [x] Depth First Search
+- [x] Depth First Search</br>
+![](./breadth.gif)
 - [x] Breadth First Search
 - [x] Dijkstra
 - [ ] A*
