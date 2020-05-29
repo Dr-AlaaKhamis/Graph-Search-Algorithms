@@ -11,7 +11,11 @@
 <img src="./breadth.gif" width="750" height="550">
 </p>
 </br>
-- [x] Breadth First Search
+- [x] Depth First Search</br></br>
+<p align="center">
+<img src="./depth.gif" width="750" height="550">
+</p>
+</br>
 - [x] Dijkstra
 - [ ] A*
 - [ ] Branch price and cut
