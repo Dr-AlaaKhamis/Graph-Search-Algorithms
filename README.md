@@ -29,6 +29,7 @@
 <img src="./astar.gif" width="750" height="550">
 </p>
 </br>
+
 - [ ] Branch price and cut
 - [ ] Contraction Hierarchy
 
