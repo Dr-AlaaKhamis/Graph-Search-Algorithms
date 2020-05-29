@@ -6,9 +6,9 @@
 
 ## Algorithms Notebook
 
-- [x] Depth First Search</br></br>
+- [x] Breadth First Search</br></br>
 <p align="center">
-<img src="./breadth.gif" width="550" height="520">
+<img src="./breadth.gif" width="750" height="700">
 </p>
 </br>
 - [x] Breadth First Search
