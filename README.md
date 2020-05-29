@@ -8,7 +8,7 @@
 
 - [x] Breadth First Search</br></br>
 <p align="center">
-<img src="./breadth.gif" width="750" height="700">
+<img src="./breadth.gif" width="750" height="650">
 </p>
 </br>
 - [x] Breadth First Search
