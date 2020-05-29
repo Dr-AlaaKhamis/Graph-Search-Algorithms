@@ -7,7 +7,7 @@
 ## Algorithms Notebook
 
 - [x] Depth First Search</br></br>
-<img src="./breadth.gif" width="48" height="50">
+<img src="./breadth.gif" width="350" height="320">
 </br>
 - [x] Breadth First Search
 - [x] Dijkstra
