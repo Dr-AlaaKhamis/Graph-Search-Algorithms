@@ -17,7 +17,12 @@
 <img src="./depth.gif" width="750" height="550">
 </p>
 </br>
+
 - [x] Dijkstra
+<p align="center">
+<img src="./dijkstra.gif" width="750" height="550">
+</p>
+</br>
 - [ ] A*
 - [ ] Branch price and cut
 - [ ] Contraction Hierarchy
