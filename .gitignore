@@ -1,4 +1,4 @@
 ./.git
-./.ipynb_checkpoints
-./cache
+./.ipynb_checkpoints/
+./cache/
 
