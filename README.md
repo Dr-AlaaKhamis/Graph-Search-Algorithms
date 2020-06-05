@@ -10,7 +10,8 @@
  Breadth First Search
 
 
-- [x] Depth First Search
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SmartMobilityAlgorithms/Graph-Search-Algorithms/blob/master/depth_first_search.ipynb) 
+Depth First Search
 
 
 - [x] Dijkstra
