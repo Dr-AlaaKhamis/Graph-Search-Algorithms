@@ -6,7 +6,8 @@
 
 ## Algorithms Notebook
 
-- [x] Breadth First Search
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SmartMobilityAlgorithms/Graph-Search-Algorithms/blob/master/breadth_first_search.ipynb)
+ Breadth First Search
 
 
 - [x] Depth First Search
