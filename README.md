@@ -14,7 +14,7 @@
 Depth First Search
 
 
-- [x] Dijkstra
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SmartMobilityAlgorithms/Graph-Search-Algorithms/blob/master/dijkstra_search.ipynb) Dijkstra
 
 
 - [x] A*
