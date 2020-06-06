@@ -17,9 +17,8 @@ Depth First Search
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SmartMobilityAlgorithms/Graph-Search-Algorithms/blob/master/dijkstra_search.ipynb) Dijkstra
 
 
-- [x] A*
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SmartMobilityAlgorithms/Graph-Search-Algorithms/blob/master/a*_search.ipynb) A*
 
-- [ ] Branch price and cut
 - [ ] Contraction Hierarchy
 
 ## Toy Problems Notebook
