@@ -1,8 +1,5 @@
 # Graph-Search-Algorithms
 
-##### This is still the first draft of the code, it needs tons of refactoring. I'm just trying to get things going
-
-#### working on the animations function now
 
 ## Algorithms Notebook
 
