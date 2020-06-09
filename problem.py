@@ -29,14 +29,16 @@ class Node:
                         for child in self.node]
         return children
     
-    # returns the path from that node to the origin as a list
+    # returns the path from that node to the origin as a list and the length of that path
     def path(self):
         node = self
+        length = 0
         path = []
         while node:
+            length += node.distance
             path.append(node.osmid)
             node = node.parent
-        return path[::-1]
+        return path[::-1], length
     
     # return the summation of edges length from the origin --- used in dijkstra
     def distance_from_origin(self):
