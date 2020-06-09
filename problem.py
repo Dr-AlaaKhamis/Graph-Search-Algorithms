@@ -91,6 +91,9 @@ def Astar_distance(G, origin, destination):
 
     return distanceGoal, distanceOrigin
 
+#
+# from aima-python
+#
 
 class PriorityQueue:
     """A Queue in which the minimum (or maximum) element (as determined by f and
