@@ -63,6 +63,8 @@ class Node:
         return hash(self.osmid)
 
 
+
+
 #
 # returns two dictionaries that associates with each node 
 # the staright-line distance between that node and the origin
