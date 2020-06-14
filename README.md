@@ -22,7 +22,13 @@ Depth First Search
 
 - [ ] Travelling Salesman Problem
 - [ ] Minimum Spanning Tree
-- [ ] Grid-based Motion Planning
+- Grid-based Motion Planning </br>
+#### Breadth First Search
+![](./animations/bfs_grid.gif)
+#### A* Search
+![](./animations/astar_grid.gif)
+#### Dijkstra Search
+![](./animations/dijkstra_grid.gif)
 
 ## Case Study Notebook
 
