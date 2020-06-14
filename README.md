@@ -1,7 +1,10 @@
 # Graph-Search-Algorithms
 
+---
 
 ## Algorithms Notebook
+
+---
 
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SmartMobilityAlgorithms/Graph-Search-Algorithms/blob/master/breadth_first_search.ipynb)
  Breadth First Search
@@ -18,7 +21,11 @@ Depth First Search
 
 - [ ] Contraction Hierarchy
 
+---
+
 ## Toy Problems Notebook
+
+---
 
 - [ ] Travelling Salesman Problem
 - [ ] Minimum Spanning Tree
@@ -28,6 +35,10 @@ Depth First Search
 
 
 ![](./animations/bfs_grid.gif?style=centerme)
+
+#### Depth First Search
+
+![](./animations/dfs_grid.gif?style=center)
 
 
 #### A* Search
