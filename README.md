@@ -23,24 +23,23 @@ Depth First Search
 - [ ] Travelling Salesman Problem
 - [ ] Minimum Spanning Tree
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SmartMobilityAlgorithms/Graph-Search-Algorithms/blob/master/grid_search.ipynb) Grid-based Motion Planning </br>
-<p align="center">
 
 #### Breadth First Search
 
 
-![](./animations/bfs_grid.gif)
+![](./animations/bfs_grid.gif?style=centerme)
 
 
 #### A* Search
 
-![](./animations/astar_grid.gif)
+![](./animations/astar_grid.gif?style=centerme)
 
 
 #### Dijkstra Search
 
-![](./animations/dijkstra_grid.gif)
+![](./animations/dijkstra_grid.gif?style=centerme)
 
-</p>
+
 
 ## Case Study Notebook
 
