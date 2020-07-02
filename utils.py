@@ -14,3 +14,7 @@ def source(*functions):
     source_code = '\n\n'.join(getsource(fn) for fn in functions)        
     display(HTML(highlight(source_code, PythonLexer(), HtmlFormatter(full=True))))
 
+#
+# the following classes are meant for
+# drawing graphs and manipulate them on jupyter notebook
+#
