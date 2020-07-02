@@ -28,7 +28,7 @@ class Graph:
             self.make_undirected()
 
     def make_undirected(self):
-        for a in list(self.graph_dict.key()):
+        for a in list(self.graph_dict.keys()):
             for (b, dist) in self.graph_dict[a].items():
                 self.connect1(b, a, dist)
     
@@ -37,7 +37,7 @@ class Graph:
         if not self.directed:
             self.connect1(B, A, distance)
     
-    def connect1(self, A, B, distane):
+    def connect1(self, A, B, distance):
         self.graph_dict.setdefault(A, {})[B] = distance
 
     def get(self, a, b=None):
@@ -56,4 +56,4 @@ class Graph:
 def UndirectedGraph(graph_dict=None):
     return Graph(graph_dict=graph_dict, directed=False)
 
-    
+
