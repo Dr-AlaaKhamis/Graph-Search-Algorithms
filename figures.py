@@ -38,5 +38,4 @@ def disjoint_forest():
     nx.draw(G, pos={k : node_positions[k] for k in G.nodes()}, node_color=[node_colors[node] for node in G.nodes()], linewidths=2, edgecolors='k', node_size = 500)
     node_label_handles = nx.draw_networkx_labels(G, pos=node_label_pos, font_size=15)
     [label.set_bbox(dict(facecolor='white', edgecolor='none')) for label in node_label_handles.values()]
-    # nx.draw_networkx_edge_labels(G, pos=node_positions, edge_labels=edge_weights, font_size=14)
     plt.show()
