@@ -52,6 +52,7 @@ def muddy_city():
     [label.set_bbox(dict(facecolor='white', edgecolor='none')) for label in node_label_handles.values()]
     # nx.draw_networkx_edge_labels(G, pos=node_positions, edge_labels=edge_weights, font_size=24)
     plt.show()
+    return MAP
 
 
 
