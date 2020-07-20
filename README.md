@@ -54,4 +54,4 @@ Depth First Search
 
 ## Case Study Notebook
 
-- [ ] GIS Routing
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SmartMobilityAlgorithms/Graph-Search-Algorithms/blob/master/GIS_routing.ipynb) GIS Routing
