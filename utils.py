@@ -58,3 +58,38 @@ class Graph:
 def UndirectedGraph(graph_dict=None):
     return Graph(graph_dict=graph_dict, directed=False)
 
+
+#
+# gets the weight of a certain closed path
+# you need to be sure that the nodes are connected
+# and there is an edge between each successive node
+#
+
+def getWeight(G, path):
+    """
+    Given a tuple of nodes and the corresponding graph it returns the weight
+    of that path assuming it is a closed path
+    """
+    c = 0
+    length = len(path)
+    for i in range(length - 1):
+        c += G[path[i]][path[i+1]]['weight']
+    
+    # closing the path
+    c += G[path[length - 1]][path[0]]['weight']
+    return c
+
+#
+# gets the corresponding edges of a graph from a certain path
+# once again, you need to be sure that everything is working properly
+#
+
+def getEdges(path):
+    """
+    Given a tuple of nodes from a graph and it returns a list of edges
+    """
+    length = len(path)
+    edges = list()
+    for i in range(length-1):
+        edges.append((path[i], path[i+1]))
+    return edges
