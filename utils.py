@@ -128,6 +128,8 @@ def animate_simple(G, colors):
 
     ax.add_collection(lc)
     scat = ax.scatter(node_Xs, node_Ys,c=colors[0], s=30)
-    ani = animation.FuncAnimation(fig, update_plot, frames=list(range(numframes)),
-                                 fargs = (colors, scat))
+    ax.get_xaxis().set_visible(False)
+    ax.get_yaxis().set_visible(False)
+    ani = animation.FuncAnimation(fig, update_plot, frames=list(range(numframes)),interval=500
+                                 ,fargs = (colors, scat))
     return ani
