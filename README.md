@@ -21,6 +21,9 @@ Depth First Search
 
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SmartMobilityAlgorithms/Graph-Search-Algorithms/blob/master/Bi-Directional%20Search.ipynb) Bi-directional Search ([MM](https://webdocs.cs.ualberta.ca/~holte/Publications/MM-AAAI2016.pdf))
 
+
+- [] Contraction Hierarchies [CHs](http://algo2.iti.kit.edu/schultes/hwy/contract.pdf)
+
 ---
 
 ## Toy Problems Notebook
