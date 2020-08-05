@@ -9,10 +9,6 @@ Graph search methods include blind search methods such as depth-first search (DF
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SmartMobilityAlgorithms/Graph-Search-Algorithms/blob/master/depth_first_search.ipynb) 
 Depth First Search
 
-- [] Hill-Climbing
-
-- [] Beam Search
-
 
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SmartMobilityAlgorithms/Graph-Search-Algorithms/blob/master/dijkstra_search.ipynb) Dijkstra
 
