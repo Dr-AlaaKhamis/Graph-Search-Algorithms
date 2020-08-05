@@ -9,13 +9,18 @@ Graph search methods include blind search methods such as depth-first search (DF
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SmartMobilityAlgorithms/Graph-Search-Algorithms/blob/master/depth_first_search.ipynb) 
 Depth First Search
 
+- [] Hill-Climbing
+
+- [] Beam Search
+
+
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SmartMobilityAlgorithms/Graph-Search-Algorithms/blob/master/dijkstra_search.ipynb) Dijkstra
 
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SmartMobilityAlgorithms/Graph-Search-Algorithms/blob/master/a*_search.ipynb) A*
 
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SmartMobilityAlgorithms/Graph-Search-Algorithms/blob/master/Bi-Directional%20Search.ipynb) Bi-directional Search ([MM](https://webdocs.cs.ualberta.ca/~holte/Publications/MM-AAAI2016.pdf))
 
-- [x] Contraction Hierarchies [CHs](http://algo2.iti.kit.edu/schultes/hwy/contract.pdf)
+- [x] Contraction Hierarchies ([CHs](http://algo2.iti.kit.edu/schultes/hwy/contract.pdf))
 
 
 ---
