@@ -20,7 +20,7 @@ Depth First Search
 
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SmartMobilityAlgorithms/Graph-Search-Algorithms/blob/master/bi-directional.ipynb) Bi-Directional Search ([MM](https://webdocs.cs.ualberta.ca/~holte/Publications/MM-AAAI2016.pdf))
 
-- [[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SmartMobilityAlgorithms/Graph-Search-Algorithms/blob/master/contraction_hierarchies.ipynb) Contraction Hierarchies ([CHs](http://algo2.iti.kit.edu/schultes/hwy/contract.pdf))
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SmartMobilityAlgorithms/Graph-Search-Algorithms/blob/master/contraction_hierarchies.ipynb) Contraction Hierarchies ([CHs](http://algo2.iti.kit.edu/schultes/hwy/contract.pdf))
 
 - [x] Multi-Level Dijkstra ([MLD](https://pdfs.semanticscholar.org/41bd/34a4ff346a1efe4dfe9f6268fd90638f742e.pdf))
 
