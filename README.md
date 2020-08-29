@@ -1,5 +1,5 @@
 # Graph-Search-Algorithms
-Graph search methods include blind search methods such as depth-first search (DFS), breadth-first search (DFS) or Dijkstra's algorithm and informed search methods such as hill climbing, beam search, Best-first or A* and contraction hierarchies. 
+Graph search methods include blind search methods such as depth-first search (DFS), breadth-first search (DFS) or Dijkstra's algorithm and informed search methods such as hill climbing, beam search, Best-first or A* and contraction hierarchies. Point to points queries are given as examples.
 
 ---
 ## Algorithm Notebooks
